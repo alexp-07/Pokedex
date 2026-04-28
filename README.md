@@ -1,2 +1,2 @@
 # Pokedex
-This is to complete my Vide Coding assignment.
+This is to complete my Vibe Coding assignment.
